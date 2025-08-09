@@ -1,1 +1,1 @@
-Database app case study 
+Database app for  data analysis case study 
