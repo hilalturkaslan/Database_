@@ -1,1 +1,1 @@
-Database done for  data analysis case study 
+Database done for sample data analysis case study 
