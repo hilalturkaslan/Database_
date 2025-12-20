@@ -1,1 +1,1 @@
-Database is a do it for than sample data analysis case study 
+Database is a do it for make than data analysis case study 
